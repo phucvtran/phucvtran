@@ -1,23 +1,27 @@
+# About Me
 👋 Hello, my name is Phuc Tran. I'm a junior software engineer with a can-do attitude and management skills. 
 I Has a strong foundation in programming across multiple platforms. I have experience in database, object-oriented programming, web developing, testing and debugging codes.
 I'm a challenge lover, willing to put down some hard work, quickly learn and master new technologies.
 
-Programming Languages:
- - Java
- - Python
- - PHP
- - C#
- - C
+## Programming Languages:
+ * Java
+ * Python
+ * PHP
+ * C#
+ * C
 
-Experience On:
- - SQL
- - Linux
- - XML
- - Json
- - RestAPI
- - Django
- - Git
- - HTML/CSS/JavaScript
+## Experience On:
+ * Node.js
+ * Express.js
+ * MySQL/Postgresql
+ * React.js
+ * Restful API
+ * HTML/CSS/JavaScript
+ * Django
+ * Linux/Unix
+ * Git
+ * Json/XML
+
  
 
 <!---
