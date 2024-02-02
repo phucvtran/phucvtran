@@ -1,10 +1,9 @@
 # About Me
-👋 Hello, my name is Phuc Tran. I'm a junior software engineer with a can-do attitude and management skills. 
-I Has a strong foundation in programming across multiple platforms. I have experience in database, object-oriented programming, web developing, testing and debugging codes.
-I'm a challenge lover, willing to put down some hard work, quickly learn and master new technologies.
+Experienced Full Stack Developer with a proven track record of delivering end-to-end solutions in web development. Combining expertise in front-end and back-end technologies, I am passionate about creating robust and scalable applications that drive business growth and enhance user experiences. With a solid foundation in both client-side and server-side development, I am seeking a challenging role where I can leverage my skills to architect, develop, and deploy innovative software solutions. Eager to collaborate with dynamic teams and contribute to projects that push the boundaries of technology.
 
 ## Programming Languages:
  * Java
+ * JavaScript
  * Python
  * PHP
  * C#
@@ -12,6 +11,9 @@ I'm a challenge lover, willing to put down some hard work, quickly learn and mas
 
 ## Experience On:
  * Node.js
+ * Angular
+ * Webpack
+ * Jenkin
  * Express.js
  * MySQL/Postgresql
  * React.js
