@@ -14,6 +14,9 @@ Experienced Full Stack Developer with a proven track record of delivering end-to
  * Angular
  * Webpack
  * Jenkin
+ * PostgresSQL
+ * MySQL
+ * MongoDB
  * Express.js
  * MySQL/Postgresql
  * React.js
