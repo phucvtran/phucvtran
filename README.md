@@ -10,7 +10,7 @@ Experienced Full Stack Developer with a proven track record of delivering end-to
 A **full-stack marketplace application** where users can **post items, services, or jobs**, and communicate via **real-time chat**.  
 
 #### Link to Demo
-http://18.217.230.205:3000/login
+http://18.217.230.205:3000
 
 #### Test Accounts:
 | Username  | Password |
